@@ -1,0 +1,17 @@
+File: stiction-P-chemical-baccidicapaci-2018.csv
+
+Type of measurement: Pressure
+
+Industry: Chemical
+Data length: 1000
+
+Sampling rate: 30 seconds
+
+Company: Anonymous
+
+Normalised: Yes
+
+Contributor: Riccardo Bacci di Capaci, University of Pisa (original data are from B. Huang, University of Alberta)
+Year of origin: Unknown (2018 is the year of data restyling) 
+First appearance in publication: Unknown
+Description: This is an example of valve stiction in a pressure control loop. The data is normalised from a larger data set.

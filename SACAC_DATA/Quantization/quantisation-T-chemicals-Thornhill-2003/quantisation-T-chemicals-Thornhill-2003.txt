@@ -1,0 +1,11 @@
+File: quantisation-T-chemicals-Thornhill-2003.csv
+Type of measurement: Temperature
+Industry: Chemicals
+Data length: 8640
+Sampling rate: 20 seconds
+Company: Eastman Chemical Company
+Normalised: Yes
+Contributor: Nina F. Thornhill, Imperial College London
+Year of origin: 2003
+First appearance in publication: Thornhill, N.F., Cox, J.W., and Paulonis, M., 2003, Diagnosis of plant-wide oscillation through data-drivenanalysis and process understanding, Control Engineering Practice, 11, 1481-1490.
+Description: This data is a trend from a plant-wide oscillation caused by valve stiction. The temperature sensor showed clear quantisation and has therefore been picked out to be included in the data repository. 

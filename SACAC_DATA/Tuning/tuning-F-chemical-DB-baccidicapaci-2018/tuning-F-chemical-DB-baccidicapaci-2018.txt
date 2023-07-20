@@ -1,0 +1,14 @@
+File: tuning-F-chemical-DB-N-baccidicapaci-2018.csv (N = 1,...,12: 12 runs for the same loop)
+Type of measurement: Flow rate
+
+Industry: Chemical
+Data length: 7201
+
+Sampling rate: 1 second (constant)
+Company: Anonymous
+
+Normalised: No
+Contributor: R. Bacci di Capaci & C. Scali, University of Pisa
+Year of origin: 2014 (2018 is the year of data restyling) 
+First appearance in publication: 2015
+Description: This is an example of sluggish tuning in a flow rate control loop (fairly consistent behaviour among the different runs).

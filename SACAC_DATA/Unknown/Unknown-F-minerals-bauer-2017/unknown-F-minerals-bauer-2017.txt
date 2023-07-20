@@ -1,0 +1,11 @@
+File: unknown-F-minerals-bauer-2017.csv
+Type of measurement: Flow
+Industry: Minerals processing
+Data length: 1000
+Sampling rate: 10 seconds
+Company: Anonymous
+Normalised: Yes
+Contributor: Margret Bauer, University of the Witwatersrand
+Year of origin: 2017
+First appearance in publication: none
+Description: This is an example of an unknown oscillatory disturbance in a flow measurement. The data is normalised from a larger data set. 

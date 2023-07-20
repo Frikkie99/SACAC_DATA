@@ -1,0 +1,11 @@
+File: stiction-L-paper-horch-2003.csv
+Type of measurement: Level
+Industry: Pulp & paper
+Data length: 1147
+Sampling rate: 1 second
+Company: Anonymous
+Normalised: No
+Contributor: Alexander Hoch, HIMA Paul Hildebrandt GmbH
+Year of origin: 2003
+First appearance in publication: tbd
+Description: This level loop shows control valve stiction. The PV range is 0-100, the operating range 0-100%. 

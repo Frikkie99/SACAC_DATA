@@ -1,0 +1,11 @@
+File: other-F-paper-horch-2003-2.csv
+Type of measurement: Flow
+Industry: Pulp & paper
+Data length: 1198
+Sampling rate: 1 second
+Company: Anonymous
+Normalised: No
+Contributor: Alexander Hoch, HIMA Paul Hildebrandt GmbH
+Year of origin: 2003
+First appearance in publication: Horch, A. (2007). Benchmarking control loops with oscillations and stiction. In Process control performance assessment (pp. 227-257). Springer, London.
+Description: This data shows normal operating data with a setpoint change. The PV range is 0-200, the operating range 0-100%. The process dead time is known to be 7-8 sec.

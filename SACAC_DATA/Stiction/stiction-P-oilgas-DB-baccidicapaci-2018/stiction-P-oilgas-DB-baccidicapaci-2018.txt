@@ -1,0 +1,15 @@
+File: stiction-P-oilgas-DB-N-baccidicapaci-2018.csv (N = 1,...,7: 7 runs for the same loop)
+Type of measurement: Pressure
+
+Industry: Oil & gas
+Data length: 721
+
+Sampling rate: non-constant (mean value: 12 seconds
+)
+Company: Anonymous
+
+Normalised: No
+Contributor: R. Bacci di Capaci & C. Scali, University of Pisa
+Year of origin: 2007 (2018 is the year of data restyling) 
+First appearance in publication: 2014
+Description: This is an example of valve stiction in a pressure control loop (consistent behavior among the different runs).

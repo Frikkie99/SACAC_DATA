@@ -1,0 +1,11 @@
+File: sensor-P-oilgas-thornhill-2007-2.csv
+Type of measurement: Pressure
+Industry: Oil & Gas
+Data length: 1500
+Sampling rate: 20 second
+Company: Anonymous
+Normalised: Yes
+Contributor: Nina F. Thornhill, Imperial College London
+Year of origin: 2007
+First appearance in publication: Thornhill, N.F., 2007, Locating the source of a disturbance, In Process Control Performance Assessment; From Theory to Implementation, Chapter 6, Eds: D.O. Uduehi, A. Ordys and M.A. Johnson, Springer-Verlag (London) Ltd, ISBN 1846286239.
+Description: A second disturbance is also present in PC1 and PC2 whose root cause it not known for sure. It is likely to be due to a controller interaction between the two pressure loops. 

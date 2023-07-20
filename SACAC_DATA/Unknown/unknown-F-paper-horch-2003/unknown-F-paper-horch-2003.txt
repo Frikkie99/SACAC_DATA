@@ -1,0 +1,11 @@
+File: unknown-F-paper-horch-2003.csv
+Type of measurement: Flow
+Industry: Pulp & paper
+Data length: 1352
+Sampling rate: 1 second
+Company: Anonymous
+Normalised: No
+Contributor: Alexander Hoch, HIMA Paul Hildebrandt GmbH
+Year of origin: 2003
+First appearance in publication: tbd
+Description: This data trend shows an unknown disturbance. The PV range is 0-700, the operating range 0-100%. The loop was in manual control. 
